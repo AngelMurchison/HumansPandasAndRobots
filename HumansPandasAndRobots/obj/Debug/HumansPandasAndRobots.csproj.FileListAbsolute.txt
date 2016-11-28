@@ -1,1 +1,6 @@
 c:\users\angel murchison\documents\visual studio 2015\Projects\HumansPandasAndRobots\HumansPandasAndRobots\bin\Debug\HumansPandasAndRobots.exe.config
+C:\Users\Angel Murchison\Documents\Visual Studio 2015\Projects\HumansPandasAndRobots\HumansPandasAndRobots\bin\Debug\HumansPandasAndRobots.exe
+C:\Users\Angel Murchison\Documents\Visual Studio 2015\Projects\HumansPandasAndRobots\HumansPandasAndRobots\bin\Debug\HumansPandasAndRobots.pdb
+C:\Users\Angel Murchison\Documents\Visual Studio 2015\Projects\HumansPandasAndRobots\HumansPandasAndRobots\obj\Debug\HumansPandasAndRobots.csprojResolveAssemblyReference.cache
+C:\Users\Angel Murchison\Documents\Visual Studio 2015\Projects\HumansPandasAndRobots\HumansPandasAndRobots\obj\Debug\HumansPandasAndRobots.exe
+C:\Users\Angel Murchison\Documents\Visual Studio 2015\Projects\HumansPandasAndRobots\HumansPandasAndRobots\obj\Debug\HumansPandasAndRobots.pdb

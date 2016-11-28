@@ -13,6 +13,6 @@ namespace HumansPandasAndRobots
             string Name = $"{name}";
             return Name;
         }
-        public abstract void DisplayGreeting();
+        public abstract string DisplayGreeting();
     }
 }

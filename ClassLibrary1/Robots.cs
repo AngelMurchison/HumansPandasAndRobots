@@ -8,15 +8,31 @@ namespace HumansPandasAndRobots
 {
     public class Robots
     {
+        public bool isTerminator { get; set; } = false;
+
+        public bool active { get; set; }
+
         public void startup()
         {
-            bool active = true;
+            active = true;
             Console.WriteLine("Started..");
         }
+
         public void shutdown()
         {
-            bool active = false;
+            active = false;
             Console.WriteLine("Shutdown..");
+        }
+
+        public string DisplayGreeting()
+        {
+            string greeting = "Salutations, bloodbag!";
+            return greeting;
+        }
+
+        public void amTerminator()
+        {
+            isTerminator = true;
         }
     }
 }
